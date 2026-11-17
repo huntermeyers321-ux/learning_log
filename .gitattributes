@@ -1,0 +1,2 @@
+# Keep Linux line endings on the start script so Render can run it.
+*.sh text eol=lf

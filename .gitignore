@@ -1,0 +1,5 @@
+.vscode/
+django_venv/
+__pycache__/
+*.pyc
+LOCAL_ADMIN_LOGIN.txt
